@@ -1,9 +1,5 @@
-Сборка в Дженкинс: https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/
-Аллюр отчет: https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#
-
 <p align="center">
 <img title="Logo" src="images/Wikipedia.svg">
-
 </p>
 
 ## Демо-проект по автоматизации тестирования мобильного приложения: Wikipedia APP
@@ -16,9 +12,9 @@
 
 ## :watermelon: Реализованы следующие проверки:
 
-:white_check_mark: Поисковый запрос Browser Strack с проверкой
-:white_check_mark: Очистка данных 
-:white_check_mark: Новый поисковый запрос Erik Bruhn с проверкой
+<br>:white_check_mark: Поисковый запрос Browser Strack с проверкой
+<br>:white_check_mark: Очистка данных 
+<br>:white_check_mark: Новый поисковый запрос Erik Bruhn с проверкой
 
 ## :four_leaf_clover: Languages and Tools:
 <code><img src="images/logo/python.svg" width="40" height="40"  alt="olgakos" title="Python"></code>
@@ -79,8 +75,10 @@
 ## :watermelon: Видео прохождения тестов
 К каждому тесту (в отчете) прилагается автоматически сгенерированное видео. Пример:
 <p align="center">
-  <img title="Selenoid Video" src="images/Video_bs2.mp4) alt="Video" width="600">
+  <img title="Selenoid Video" src="images/Video_bs2.mp4) alt="Video" width="400">
 </p>
 
 -------
 2022-12-21
+Сборка в Дженкинс: https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/
+Аллюр отчет: https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#
