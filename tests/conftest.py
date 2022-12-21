@@ -8,8 +8,6 @@ from selenium.webdriver.chrome.options import Options
 
 from utils import attachment
 
-#from wikipedia.utils import attachments
-
 @pytest.fixture(scope='session', autouse=True)
 def driver_management():
     load_dotenv()
