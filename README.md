@@ -1,5 +1,5 @@
 <p align="center">
-<img title="Logo" src="images/Wikipedia.svg">
+<img title="Logo" src="images/wikipedia.png">
 </p>
 
 ## Демо-проект по автоматизации тестирования мобильного приложения: Wikipedia APP
@@ -75,10 +75,8 @@
 ## :watermelon: Видео прохождения тестов
 К каждому тесту (в отчете) прилагается автоматически сгенерированное видео. Пример:
 <p align="center">
-  <img title="Selenoid Video" src="images/Video_bs2.mp4) alt="Video" width="400">
+  <img title="Selenoid Video" src="images/Video_bs2.gif) alt="Video" width="400">
 </p>
 
 -------
 2022-12-21
-Сборка в Дженкинс: https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/
-Аллюр отчет: https://jenkins.autotests.cloud/job/C02_OlgaKos_python_wikipedia_app_test/7/allure/#
