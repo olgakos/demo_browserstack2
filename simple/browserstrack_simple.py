@@ -7,12 +7,14 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 '''
-#https://github.com/browserstack/python-appium-app-browserstack/blob/sdk/android/browserstack_sample.py
-Это (работающий) базовый демо-пример возможнсостей БраузерСтек
-Код, запущенный в ПайЧарме отработает в окне БраузерСтека: 
+1. шаблон (без персональных данных):
+https://github.com/browserstack/python-appium-app-browserstack/blob/sdk/android/browserstack_sample.py
+
+2. Здесь: это (работающий) базовый демо-пример возможностей БраузерСтек
+
+3. Внимание, код, запущенный в ПайЧарме, визуально отработает и запишет видео в окне БраузерСтека здесь: 
 https://app-automate.browserstack.com/dashboard/v2/builds/37e670de387a300270a5cdc9f0482f562b608b03/sessions/3be069700d7d3f42d5f6dab44b5f859adbb580d6
 '''
-
 
 # Options are only available since client version 2.3.0
 # If you use an older client then switch to desired_capabilities
@@ -36,7 +38,6 @@ options = UiAutomator2Options().load_capabilities({
         # Set your access credentials
         #"userName" : "YOUR_USERNAME",
         #"accessKey" : "YOUR_ACCESS_KEY"
-
         "userName" : "sadovayasonya_Ih4tsF",
         "accessKey" : "3z6kuhUCmNhvLZbp59Dx"
     }
