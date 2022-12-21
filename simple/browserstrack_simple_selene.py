@@ -5,7 +5,6 @@ from appium.webdriver.common.appiumby import AppiumBy
 from selene import have
 from selene.support.shared import browser
 
-
 options = UiAutomator2Options().load_capabilities({
     # Specify device and os_version for testing
     "platformName" : "android",
