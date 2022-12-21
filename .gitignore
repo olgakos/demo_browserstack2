@@ -1,4 +1,21 @@
 # Byte-compiled / optimized / DLL files
+.env
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Allure to my!
+allure-results/
+allure-report/
+.allure-results/
+.allure-report/
+.tests/allure-results
+allure/plugins
+/allure/
+
+
 __pycache__/
 *.py[cod]
 *$py.class
