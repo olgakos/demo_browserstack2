@@ -6,13 +6,12 @@
 :earth_americas: https://ru.wikipedia.org/
 
 ## :watermelon: Реализованы следующие проверки:
-
 <br>:white_check_mark: Поисковый запрос Browser Strack с проверкой
 <br>:white_check_mark: Очистка данных 
 <br>:white_check_mark: Новый поисковый запрос Erik Bruhn с проверкой
 <br>К тестам прилагается бонусный функционал:
+* возможность запуска с любого компьютера без установки специального софта
 * графический визуальный отчет
-* возможность запуска с любого компьютера без установки спец.софта
 
 ## :four_leaf_clover: Languages and Tools:
 <code><img src="images/logo/python.svg" width="40" height="40"  alt="olgakos" title="Python"></code>
