@@ -28,7 +28,7 @@ def driver_management():
         "build": "wikipedia-build",
         'bstack:options': {
             "projectName": "First Python project",
-            "buildName": "browserstack-build-2-demo2022-12-21_selene",
+            "buildName": "browserstack-build-3-demo2022-12-21_WIKI",
             "sessionName": "BStack first_test",
             "userName": f"{USER_NAME}",
             "accessKey": f"{ACCESS_KEY}",
