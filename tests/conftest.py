@@ -8,8 +8,7 @@ from selenium.webdriver.chrome.options import Options
 
 from utils import attachment
 
-
-#from wikipedia.util import attachments
+#from wikipedia.utils import attachments
 
 @pytest.fixture(scope='session', autouse=True)
 def driver_management():
@@ -41,5 +40,5 @@ def driver_management():
     )
     browser.config.timeout = 4
     yield driver_management
-    attach.add_video(browser)
+    attachment.add_video(browser) #! attach.
     browser.quit()
