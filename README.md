@@ -5,16 +5,14 @@
 ## Демо-проект по автоматизации тестирования мобильного приложения: Wikipedia APP
 :earth_americas: https://ru.wikipedia.org/
 
-<p>К тестам прилагается бонусный функционал:</p>
-* графический визуальный отчет
-* возможность запуска с любого компьютера без установки спец.софта
-
-
 ## :watermelon: Реализованы следующие проверки:
 
 <br>:white_check_mark: Поисковый запрос Browser Strack с проверкой
 <br>:white_check_mark: Очистка данных 
 <br>:white_check_mark: Новый поисковый запрос Erik Bruhn с проверкой
+<br>К тестам прилагается бонусный функционал:
+* графический визуальный отчет
+* возможность запуска с любого компьютера без установки спец.софта
 
 ## :four_leaf_clover: Languages and Tools:
 <code><img src="images/logo/python.svg" width="40" height="40"  alt="olgakos" title="Python"></code>
@@ -75,7 +73,7 @@
 ## :watermelon: Видео прохождения тестов
 К каждому тесту (в отчете) прилагается автоматически сгенерированное видео. Пример:
 <p align="center">
-  <img title="Selenoid Video" src="images/Video_bs2.gif) alt="Video" width="400">
+  <img title="Selenoid Video" src="images/Video_bs2.gif" alt="Video" width="400">
 </p>
 
 -------
